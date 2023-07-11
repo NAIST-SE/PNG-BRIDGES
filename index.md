@@ -56,4 +56,3 @@ Papua New Guinea used to be lesser-known to the world, but now it's rapidly open
   <img src="http://www.percom.org/Previous/ST2019/sites/default/files/inline-images/naist.jpg" width="180" /> 
 </p>
 
-<img src="img/sponsor.PNG" alt="hi" class="inline"/>
