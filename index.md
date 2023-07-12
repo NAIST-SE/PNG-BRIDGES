@@ -39,13 +39,7 @@ BRIDGES2023 will take place at [Loloata resort](https://www.loloataislandresort.
 
 
 ## Travel
-To get to Port Moresby, the national airline, Air Niugini, operate weekly direct flights from the capital city to many domestic and international destinations including Singapore, Tokyo, Sydney, Brisbane, Cairns, Manila and Hong Kong. A visa is required to visit PNG, though passport holders from many countries are eligible for a 60-day visa on arrival for free at Port Moresby airport. 
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d125932.71912184669!2d147.1544731256938!3d-9.474114003519416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x69024a74e29ae88d%3A0x69e6ee3ec6e02d7b!2sMotupore+Island!5e0!3m2!1sen!2sjp!4v1555982574073!5m2!1sen!2sjp" width="400" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-
-Papua New Guinea used to be lesser-known to the world, but now it's rapidly opening up to more intrepid travelers with its unique topography and enchanting natural scenery.  
-
+To get to Port Moresby, the national airline, Air Niugini, operate weekly direct flights from the capital city to many domestic and international destinations including Singapore, Tokyo, Sydney, Brisbane, Cairns, Manila and Hong Kong. A visa is required to visit PNG, though passport holders from many countries are eligible for a 60-day visa on arrival for free at Port Moresby airport.  
 
 ## Supporters
 
