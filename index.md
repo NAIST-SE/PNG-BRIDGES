@@ -4,7 +4,8 @@
 
 <img src="img/summary.jpg" alt="hi" class="inline"/>
 
-### We are back after the pandemic! The theme of the Workshop is "The Potential for Employment, Competency, and Global Engagement in Papua New Guinea"
+### We are back!
+After the pandemic! This year theme of the Workshop is "The Potential for Employment, Competency, and Global Engagement in Papua New Guinea"
 
 ## About
 The objective of the International Workshop on BRIdging Divides with Globally Engineered Software (BRIDGES) is to foster development by providing a forum where researchers and practitioners can report on and discuss issues and solutions to bridge the digital divide of information within a practical geographic-free global software engineering setting.
@@ -26,13 +27,11 @@ Previous BRIDGES
 
 ## Steering
 - Raula Gaikovina Kula (Organizer, Nara Institute of Science and Technology)
-- Christoph Treude (Organizer, University of Adelaide)
-- Hideaki Hata (Organizer, Nara Institute of Science and Technology)
 
 Due to limited space availability, DAY2 attendance at the workshop is by invitation only.
 
 ## Venue
-BRIDGES2023 will take place at Loloata resort, which is located on an island off the coast of Port Moresby, capital of Pacific nation, Papua New Guinea (PNG). Known as the land of unexpected, locals speak over 850 languages and have a diverse culture, flora and fauna (like the Bird of Paradise and the world's largest butterfly, the Queen Alexandra Birdwing), making PNG one of the last untouched locations on the planet. With independence day looming on September 16th, we expect the area to be buzzing with pacific-style culture and experiences. 
+BRIDGES2023 will take place at [Loloata resort](https://www.loloataislandresort.com/), which is located on an island off the coast of Port Moresby, capital of Pacific nation, Papua New Guinea (PNG). Known as the land of unexpected, locals speak over 850 languages and have a diverse culture, flora and fauna (like the Bird of Paradise and the world's largest butterfly, the Queen Alexandra Birdwing), making PNG one of the last untouched locations on the planet. With independence day looming on September 16th, we expect the area to be buzzing with pacific-style culture and experiences. 
 
 ## International Talks
 
