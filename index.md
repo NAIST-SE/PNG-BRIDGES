@@ -25,7 +25,7 @@ Previous BRIDGES
 - National High Schools
 - PNG ICT Specialists
 
-## Steering
+## Organizer
 - Raula Gaikovina Kula (Organizer, Nara Institute of Science and Technology)
 
 Due to limited space availability, DAY2 attendance at the workshop is by invitation only.
