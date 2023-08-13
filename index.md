@@ -53,15 +53,6 @@ Abstract: Defect prediction models can predict defects in software projects, and
 
 Dong Wang is an Assistant Professor from the Principles of Software engineering and programming Languages Lab (POSL) at Kyushu University, Japan. Dong received dotoral degree from Nara Institute of Science and Technology under the supervision of Prof. Kenichi Matsumoto (Software Engineering Laboratory). Research goals are to directly uncover empirical evidence and extract knowledge from data recorded in software repositories. His research topics mainly focus on understanding and improving developer collaboration practices such as code review settings and various communication channels.
 
-**What do we know about Libraries and their Dependencies?**
-
-<img align="right" height="200" src="https://conf.researchr.org/getProfileImage/raulakula/46325348-565e-400e-88e1-73fad66f14fe/small.jpg">
-
-Abstract: Adopting third-party libraries has become a standard practice among developers for their software applications, particularly with the emergence of extensive library archives. Maintaining the update, attraction, and sustainability of these Open Source Software (OSS) libraries in relation to the rest of the software ecosystem is crucial for their survival. In this presentation, I will delve into the role of libraries, examining not only their technical aspects but also their societal impact. I will address outstanding issues, such as security and sustainability, and discuss the progress of our research group in tackling these challenges.
-
-Raula Gaikovina Kula is an associate professor at the Nara Institute of Science and Technology (NAIST), Japan. He received his Ph.D degree from NAIST in 2013 and was a Research Assistant Professor at Osaka University from Sept. 2013 till April 2017. He is active in the Software Engineering community, serving the community as a PC member for premium SE venues (i.e., ICSE, ASE, ICSME, ESEM, MSR, and so on), some as organising committee and reviewer for journals (i.e., IEEE TSE, Spring EMSE, Elsevier IST and JSS). His current research interests include library dependencies and security in the software ecosystem, program analysis such as code clones and human aspects such as code reviews. Find him at https://raux.github.io/ and @augaiko on twitter.
-
-
 ## Travel
 To get to Port Moresby, the national airline, Air Niugini, operate weekly direct flights from the capital city to many domestic and international destinations including Singapore, Tokyo, Sydney, Brisbane, Cairns, Manila and Hong Kong. A visa is required to visit PNG, though passport holders from many countries are eligible for a 60-day visa on arrival for free at Port Moresby airport.  
 
