@@ -10,12 +10,16 @@
 After the pandemic! This year theme of the Workshop is "Pathways for Tech, Big Tech, and Start-up Employment, Competency, and Global Engagement from a Papua New Guinea Perspective"
 In this digital age of Artifical Inteligence (AI) in the cyberspace, emerging societies like Papua New Guinea have an opportunity to overcome the geographic, and social boundaries to engage with the global market.For this workshop, our idea is to bring experts and rising stars to the country to discuss the state of art. 
 
-## BRIDGES Vision and Mission Statement
+### BRIDGES Vision and Mission Statement
 The objective of the International Workshop on BRIdging Divides with Globally Engineered Software (BRIDGES) is to foster development by providing a forum where researchers and practitioners can report on and discuss issues and solutions to bridge the digital divide of information within a practical geographic-free global software engineering setting.
 
 The workshop encourages the exchange of ideas within the local and international community with its ultimate goal to make software engineering universal; for anyone, anywhere, without any technical, cultural and educational boundaries. This involves a round-table discussion with invited talks from both local and international participants.
 
-Previous BRIDGES
+### Outputs 
+Publication in [IEEE Software](https://ieeexplore.ieee.org/document/9490315)
+International Talk on "Never Work in Theory" - [Link](https://www.youtube.com/watch?v=SsHf0-X4vrI)
+
+### Previous BRIDGES
 - [BRIDGES2019](https://naist-se.github.io/BRIDGES2019/)
 
 ## International Participants
