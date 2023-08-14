@@ -36,6 +36,52 @@ Due to limited space availability, DAY2 attendance at the workshop is by invitat
 ## Venue
 BRIDGES2023 will take place at [Loloata resort](https://www.loloataislandresort.com/), which is located on an island off the coast of Port Moresby, capital of Pacific nation, Papua New Guinea (PNG). Known as the land of unexpected, locals speak over 850 languages and have a diverse culture, flora and fauna (like the Bird of Paradise and the world's largest butterfly, the Queen Alexandra Birdwing), making PNG one of the last untouched locations on the planet. With independence day looming on September 16th, we expect the area to be buzzing with pacific-style culture and experiences. 
 
+## Overview of Program
+**DAY 1 - Loloata: Conference Room.**
+
+Session | Details
+-------------- | -------------
+8:00 - 9:00 | Registration
+-------------- | ---------------
+9:00 - 10:00 | Welcome
+Welcome Address | ICT Digital Cluster -
+Welcome Statement | International Delegate - 
+Theme BRIDGES2023 | Organizing - Prof. Raula Gaikovina Kula
+------------ | -------------
+10:00 - 10:30 | Break (Group Photo)
+------------ | -------------
+10:30 - 12:30 | Welcome
+Industry Talk | PNG Side
+International Talk 1 | Prof. Christoph Treude
+International Talk 2 | Prof Dong Wang
+------------ | -------------
+12:30 - 1:30 | LUNCH (e-Poster session by Unitech Internship Students)
+------------ | -------------
+1:30 - 3:00 | Break out groups 
+------------ | -------------
+.. |  Brainstorming on Tech Employment, Competency, and Global Engagement
+.. |  List up themes 
+------------ | -------------
+3:00 - 3:30 | Break 
+------------ | -------------
+3:30 - 4:30 | Break out groups 2
+------------ | -------------
+.. |  Feedback on the breakouts
+.. |  Panel Discussions (What are the gaps and bridges that need to be built?)
+------------ | -------------
+4:30 - 5:00 | Day 1 Wrap-up and Networking
+------------ | -------------
+
+night session (8:00pm - 10.00pm) | closeout and discussion for break out groups
+
+**DAY 2 - Loloata: Conference Room.**
+
+Session | Details
+------------ | -------------
+morning (9.30am - 10:30am)| Future Plans layout and discussion on 2024 plans.
+
+
+
 ## International Talks
 
 **Coding in the Real World: Teaching Programming Through Open Source Collaboration**
@@ -60,8 +106,3 @@ To get to Port Moresby, the national airline, Air Niugini, operate weekly direct
 ## Supporters
 
 **TBA**
-
-<p float="right">
-  <img src="http://www.percom.org/Previous/ST2019/sites/default/files/inline-images/naist.jpg](https://www.naist.jp/en/img/common/logo_en.png)https://www.naist.jp/en/img/common/logo_en.png" width="180" /> 
-</p>
-
