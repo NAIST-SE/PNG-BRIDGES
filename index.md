@@ -8,8 +8,7 @@
 
 ## Pathways for Technology Employment, Competency, and Global Engagement from a Papua New Guinea Perspective
 After the pandemic! This year theme of the Workshop is "Pathways for Technology Employment, Competency, and Global Engagement from a Papua New Guinea Perspective"
-In this digital age of AI in the cyberspace, emerging societies like Papua New Guinea have an opportunity to overcome the geographic, and social boundaries to engage with the global market.
-For this workshop, our idea is to bring experts and rising stars to the country to discuss the state of art. 
+In this digital age of Artifical Inteligence (AI) in the cyberspace, emerging societies like Papua New Guinea have an opportunity to overcome the geographic, and social boundaries to engage with the global market.For this workshop, our idea is to bring experts and rising stars to the country to discuss the state of art. 
 
 ## About
 The objective of the International Workshop on BRIdging Divides with Globally Engineered Software (BRIDGES) is to foster development by providing a forum where researchers and practitioners can report on and discuss issues and solutions to bridge the digital divide of information within a practical geographic-free global software engineering setting.
