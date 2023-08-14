@@ -16,7 +16,8 @@ The objective of the International Workshop on BRIdging Divides with Globally En
 The workshop encourages the exchange of ideas within the local and international community with its ultimate goal to make software engineering universal; for anyone, anywhere, without any technical, cultural and educational boundaries. This involves a round-table discussion with invited talks from both local and international participants.
 
 ### Outputs 
-- Work done in BRIDGES2019 lead to a Publication in [IEEE Software](https://ieeexplore.ieee.org/document/9490315) Raula Gaikovina Kula, Christoph Treude, Hideaki Hata, Sebastian Baltes, Igor Steinmacher, Marco Aurelio Gerosa, Winifred Kula Amini, "Challenges for Inclusion in Software Engineering: The Case of the Emerging Papua New Guinean Society," IEEE Software, 19 Jul. 2021, doi:10.1109/MS.2021.3098116
+- Work done in BRIDGES2019 lead to a Publication in [IEEE Software](https://ieeexplore.ieee.org/document/9490315)
+- Raula Gaikovina Kula, Christoph Treude, Hideaki Hata, Sebastian Baltes, Igor Steinmacher, Marco Aurelio Gerosa, Winifred Kula Amini, "Challenges for Inclusion in Software Engineering: The Case of the Emerging Papua New Guinean Society," IEEE Software, 19 Jul. 2021, doi:10.1109/MS.2021.3098116
 
 - International Talk on "Never Work in Theory" by Sebastian Baltes - [Link](https://www.youtube.com/watch?v=SsHf0-X4vrI)
 
