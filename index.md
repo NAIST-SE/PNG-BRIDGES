@@ -87,9 +87,15 @@ night session (8:00pm - 10.00pm) | closeout and discussion for break out groups
 
 Session | Details
 ------------ | -------------
-morning (9.30am - 10:30am)| Future Plans layout and discussion on 2024 plans.
+morning (9.30am - 10:30am)| Create Breakout groups and invites for Day 3
 
+**DAY 3 - Loloata - Resort Area**
 
+Session | Details
+------------ | -------------
+morning (9.30am - 12:00pm)| Breakout groups to discuss the employment pathways for tech in PNG, and concerns of the tech Industry
+afternoon (2:00pm - 4.30pm) | Breakout groups to discuss potential solutions, and future plans.
+wrap-up (5:00pm - 5.30pm) | Future Plans layout and discussion on 2024 plans.
 
 ## International Talks
 
