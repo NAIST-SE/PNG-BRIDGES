@@ -28,7 +28,12 @@ The workshop encourages the exchange of ideas within the local and international
 - [BRIDGES2019](https://naist-se.github.io/BRIDGES2019/)
 
 ## International Participants
-**TBA**
+- Raula Gaikovina Kula, Nara Institute of Science and Technology, Japan
+- Kenichi Matsumoto, Nara Institute of Science and Technology, Japan
+- Hideaki Hata, Shinshu University, Japan
+- Christoph Treude, University of Melbourne, Australia
+- Marc Cheong, University of Melbourne, Australia
+- Dong Wang, Kyushu University, Japan
 
 ## Local Participation
 - Papua New Guinea Universities
