@@ -30,6 +30,7 @@ The workshop encourages the exchange of ideas within the local and international
 ## International Participants
 - Raula Gaikovina Kula, Nara Institute of Science and Technology, Japan
 - Kenichi Matsumoto, Nara Institute of Science and Technology, Japan
+- Takashi Kobayashi, Tokyo Institute of Technology, Japan
 - Hideaki Hata, Shinshu University, Japan
 - Christoph Treude, University of Melbourne, Australia
 - Marc Cheong, University of Melbourne, Australia
