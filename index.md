@@ -1,5 +1,9 @@
 # BRIDGES2023
+
+in collaboration with 
+<img src="https://www.naist.jp/en/img/common/logo_en.png" alt="hi" class="inline"/>
 <img src="img/UnitechLogo.jpg" alt="hi" class="inline"/>
+
 
 **Second International Workshop on BRIdging the Divides with Globally Engineered Software (BRIDGES2023)**
 
