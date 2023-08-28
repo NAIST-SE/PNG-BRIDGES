@@ -10,8 +10,6 @@ in collaboration with
 
 ### 12th - 14th Sept. 2023
 
-<img src="img/summary.jpg" alt="hi" class="inline"/>
-
 ## 2023 Theme: Pathways for Tech Employment, Competency, and Global Engagement from a Papua New Guinea Perspective
 After the pandemic! This year theme of the Workshop is "Pathways for Tech, Big Tech, and Start-up Employment, Competency, and Global Engagement from a Papua New Guinea Perspective"
 In this digital age of Artifical Inteligence (AI) in the cyberspace, emerging societies like Papua New Guinea have an opportunity to overcome the geographic, and social boundaries to engage with the global market.For this workshop, our idea is to bring experts and rising stars to the country to discuss the state of art. 
