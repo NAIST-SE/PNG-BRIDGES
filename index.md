@@ -1,4 +1,5 @@
 # BRIDGES2023
+<img src="img/UnitechLogo.jpg" alt="hi" class="inline"/>
 
 **Second International Workshop on BRIdging the Divides with Globally Engineered Software (BRIDGES2023)**
 
