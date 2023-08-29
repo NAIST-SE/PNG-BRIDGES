@@ -83,7 +83,9 @@ International Talk 2 | Prof Dong Wang
 ------------ | -------------
 3:00 - 3:30 | Break 
 ------------ | -------------
-3:30 - 4:30 | Break out groups 2
+3:30 - 4:30 | Talks
+International Talk 1 | Marc Cheong
+International Talk 2 | 
 ------------ | -------------
 .. |  Feedback on the breakouts
 .. |  Panel Discussions (What are the gaps and bridges that need to be built?)
@@ -124,6 +126,18 @@ Christoph Treude is a Senior Lecturer in Software Engineering at the School of C
 Abstract: Defect prediction models can predict defects in software projects, and many researchers study defect prediction models to assist debugging efforts in software development. In recent years, there has been growing interest in Cross Project Defect Prediction (CPDP), which predicts defects in a project using a defect prediction model learned from other projects’ data when there is insufficient data to construct a defect prediction model. Since CPDP uses other projects’ data, data privacy preservation is one of the most significant issues. However, prior CPDP studies still require data sharing among projects to train models, and do not fully consider protecting project confidentiality. To address this, we propose a CPDP model FLR employing federated learning, a distributed machine learning approach that does not require data sharing. We evaluate FLR, using 25 projects, to investigate its effectiveness and feature interpretation. Our key results show that first, FLR outperforms the existing privacy-preserving methods (i.e., LACE2). Meanwhile, the performance is relatively comparable to the conventional methods (e.g., supervised and unsupervised learning). Second, the results of the interpretation analysis show that scale-related features have a common effect on the prediction performance of the FLR. In addition, further insights demonstrate that parameters of federated learning (e.g., learning rates and the number of clients) also play a role in the performance. This study is served as a first step to confirm the feasibility of the employment of federated learning in CPDP to ensure privacy preservation and lays the groundwork for future research on applying other machine learning models to federated learning.
 
 Dong Wang is an Assistant Professor from the Principles of Software engineering and programming Languages Lab (POSL) at Kyushu University, Japan. Dong received dotoral degree from Nara Institute of Science and Technology under the supervision of Prof. Kenichi Matsumoto (Software Engineering Laboratory). Research goals are to directly uncover empirical evidence and extract knowledge from data recorded in software repositories. His research topics mainly focus on understanding and improving developer collaboration practices such as code review settings and various communication channels.
+
+**Diversity and Inclusion: Societal considerations for future AI use​**
+
+<img align="right" height="200" src="https://pictures.staff.unimelb.edu.au/fae/index_eis.php?id=862627&t=3&f=j">
+
+Technological advancements in artificial intelligence (AI) and machine learning (ML), especially in generative systems and large language models (LLMs), allows them to be widely adopted by developers, decision-makers, and end users alike.
+Generative systems such as (Chat)GPT and Stable Diffusion -- alongside their non-generative counterparts such as automated image classification and transcription models -- are commonly made available "as-a-service". This leads to lower deployment overheads and allows developers to quickly get up and running with working solutions.
+In this talk, I would like to showcase how such systems work, and how they could potentially exhibit bias and discrimination. In particular, this talk focuses on both theoretical (and projected) downstream effects of such technology; in other words, broader implications for the people affected by outputs of these machines, oftentimes beyond that of the deployer. 
+While some work has been done to make these systems more inclusive and less biased, there is much more that could be done to improve their outputs. I will highlight examples from existing 'off the shelf' systems, with a case study on hiring and candidate recruitment systems, and potential issues with future systems as they incorporate ever-changing LLMs.
+I hope that this talk is able to spur conversation on the societal implications of such technology and promote broader discussion of AI diversity and inclusion in PNG. 
+
+Marc Cheong is a Senior Lecturer of Information Systems (Digital Ethics) at the School of Computing and Information Systems and Senior Fellow at the Melbourne Law School, at the University of Melbourne, Australia. He is one of the co-chairs of the IEEE ETHICS flagship conference series and was the 2022 IEEE Society on Social Implications of Technology (SSIT) co-convenor for Victoria, Australia. In terms of AI and automation, he is interested in the ethical considerations in the design, deployment, and usage of such systems. He is active in science communication and is experienced in communicating academic research to a general audience. He frequently comments on topics related to digital ethics in the media --- from social networking platforms to generative AI systems --- in outlets such as the New York Times (NYT, USA), The Age (Australia), and ABC Radio (Australia).  
 
 ## Travel
 To get to Port Moresby, the national airline, Air Niugini, operate weekly direct flights from the capital city to many domestic and international destinations including Singapore, Tokyo, Sydney, Brisbane, Cairns, Manila and Hong Kong. A visa is required to visit PNG, though passport holders from many countries are eligible for a 60-day visa on arrival for free at Port Moresby airport.  
