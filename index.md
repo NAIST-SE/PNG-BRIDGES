@@ -84,8 +84,8 @@ International Talk 2 | Prof Dong Wang
 3:00 - 3:30 | Break 
 ------------ | -------------
 3:30 - 4:30 | Talks
-International Talk 1 | Marc Cheong
-International Talk 2 | Hideaki Hata
+International Talk 3 | Marc Cheong
+International Talk 4 | Hideaki Hata
 ------------ | -------------
 .. |  Feedback on the breakouts
 .. |  Panel Discussions (What are the gaps and bridges that need to be built?)
