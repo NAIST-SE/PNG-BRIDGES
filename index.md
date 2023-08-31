@@ -1,4 +1,5 @@
-# BRIDGES2023, 12th - 14th Sept. 2023 at Loloata, Port Moresby, Papua New Guinea
+# BRIDGES2023
+12th - 14th Sept. 2023 at Loloata, Port Moresby, Papua New Guinea
 
 in collaboration with 
 
@@ -8,13 +9,12 @@ in collaboration with
 
 **Second International Workshop on BRIdging the Divides with Globally Engineered Software (BRIDGES2023)**
 
-
-## Theme: 
+## 2023 Theme: 
 **Pathways for Tech Employment, Competency, and Global Engagement from a Papua New Guinea Perspective**
-After the pandemic! This year theme of the Workshop is "Pathways for Tech, Big Tech, and Start-up Employment, Competency, and Global Engagement from a Papua New Guinea Perspective"
-In this digital age of Artifical Inteligence (AI) in the cyberspace, emerging societies like Papua New Guinea have an opportunity to overcome the geographic, and social boundaries to engage with the global market.For this workshop, our idea is to bring experts and rising stars to the country to discuss the state of art. 
 
-### Four International Speakers
+We are back after the pandemic! This year theme of the Workshop is "Pathways for Tech, Big Tech, and Start-up Employment, Competency, and Global Engagement from a Papua New Guinea Perspective" In this digital age of Artifical Inteligence (AI) in the cyberspace, emerging societies like Papua New Guinea have an opportunity to overcome the geographic, and social boundaries to engage with the global market.For this workshop, our idea is to bring experts and rising stars to the country to discuss the state of art. 
+
+### Four International Talks
 This year we have four interesting talks that cover different aspects of Software Engineering. 
 
 - Coding in the Real World: Teaching Programming Through Open Source Collaboration
@@ -22,7 +22,7 @@ This year we have four interesting talks that cover different aspects of Softwar
 - Diversity and Inclusion: Societal considerations for future AI use​
 - Toward Sustainable Management of Common Pool Resources through an EV Sharing Experiment
 
-### International Participants
+**International Participants**
 - Raula Gaikovina Kula, Nara Institute of Science and Technology, Japan
 - Kenichi Matsumoto, Nara Institute of Science and Technology, Japan
 - Takashi Kobayashi, Tokyo Institute of Technology, Japan
@@ -31,7 +31,7 @@ This year we have four interesting talks that cover different aspects of Softwar
 - Marc Cheong, University of Melbourne, Australia
 - Dong Wang, Kyushu University, Japan
 
-### Local Participation
+**Local Participation**
 - Unitech PNG
 - Papua New Guinea Science and Technology Secretariat
 - Papua New Guinea Digital Cluster
