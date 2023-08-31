@@ -10,28 +10,17 @@ in collaboration with
 
 ### 12th - 14th Sept. 2023
 
-## 2023 Theme: Pathways for Tech Employment, Competency, and Global Engagement from a Papua New Guinea Perspective
+## Theme: Pathways for Tech Employment, Competency, and Global Engagement from a Papua New Guinea Perspective
 After the pandemic! This year theme of the Workshop is "Pathways for Tech, Big Tech, and Start-up Employment, Competency, and Global Engagement from a Papua New Guinea Perspective"
 In this digital age of Artifical Inteligence (AI) in the cyberspace, emerging societies like Papua New Guinea have an opportunity to overcome the geographic, and social boundaries to engage with the global market.For this workshop, our idea is to bring experts and rising stars to the country to discuss the state of art. 
 
-### BRIDGES Vision and Mission Statement
-The objective of the International Workshop on BRIdging Divides with Globally Engineered Software (BRIDGES) is to foster development by providing a forum where researchers and practitioners can report on and discuss issues and solutions to bridge the digital divide of information within a practical geographic-free global software engineering setting.
+### Four International Speakers
+- Coding in the Real World: Teaching Programming Through Open Source Collaboration
+- Towards Privacy Preserving Cross Project Defect Prediction with Federated Learning
+- Diversity and Inclusion: Societal considerations for future AI use​
+- Toward Sustainable Management of Common Pool Resources through an EV Sharing Experiment
 
-The workshop encourages the exchange of ideas within the local and international community with its ultimate goal to make software engineering universal; for anyone, anywhere, without any technical, cultural and educational boundaries. This involves a round-table discussion with invited talks from both local and international participants.
-
-### Outputs 
-- Work done in BRIDGES2019 resulted to this paper in a top-10 SE academic journal
-
- [Raula Gaikovina Kula, Christoph Treude, Hideaki Hata, Sebastian Baltes, Igor Steinmacher, Marco Aurelio Gerosa, Winifred Kula Amini, "Challenges for Inclusion in Software Engineering: The Case of the Emerging Papua New Guinean Society," IEEE Software, 19 Jul. 2021, doi:10.1109/MS.2021.3098116](https://ieeexplore.ieee.org/document/9490315)
-
-- International Talk on "Never Work in Theory" by Sebastian Baltes
-
-   [![Watch the video](https://img.youtube.com/vi/SsHf0-X4vrI/hqdefault.jpg)](https://www.youtube.com/embed/SsHf0-X4vrI)
-
-### Previous BRIDGES
-- [BRIDGES2019](https://naist-se.github.io/BRIDGES2019/)
-
-## International Participants
+### International Participants
 - Raula Gaikovina Kula, Nara Institute of Science and Technology, Japan
 - Kenichi Matsumoto, Nara Institute of Science and Technology, Japan
 - Takashi Kobayashi, Tokyo Institute of Technology, Japan
@@ -40,17 +29,12 @@ The workshop encourages the exchange of ideas within the local and international
 - Marc Cheong, University of Melbourne, Australia
 - Dong Wang, Kyushu University, Japan
 
-## Local Participation
+### Local Participation
 - Papua New Guinea Universities
 - Papua New Guinea Science and Technology Secretariat
 - Papua New Guinea Digital Cluster
 - National High Schools
 - PNG ICT Specialists
-
-## Organizer
-- Raula Gaikovina Kula (Organizer, Nara Institute of Science and Technology)
-
-Due to limited space availability, DAY2 attendance at the workshop is by invitation only.
 
 ## Venue
 BRIDGES2023 will take place at [Loloata resort](https://www.loloataislandresort.com/), which is located on an island off the coast of Port Moresby, capital of Pacific nation, Papua New Guinea (PNG). Known as the land of unexpected, locals speak over 850 languages and have a diverse culture, flora and fauna (like the Bird of Paradise and the world's largest butterfly, the Queen Alexandra Birdwing), making PNG one of the last untouched locations on the planet. With independence day looming on September 16th, we expect the area to be buzzing with pacific-style culture and experiences. 
@@ -145,8 +129,25 @@ Marc Cheong is a Senior Lecturer of Information Systems (Digital Ethics) at the 
 
 Hideaki Hata is an Associate Professor at the Faculty of Engineering, Shinshu University, Japan. Before joining Shinshu University, he worked as an Assistant Professor at Nara Institute of Science and Technology. He received M.Sc. and Ph.D degrees from the Graduate School of Information Science and Technology, Osaka University.
 
+### BRIDGES Vision and Mission Statement
+The objective of the International Workshop on BRIdging Divides with Globally Engineered Software (BRIDGES) is to foster development by providing a forum where researchers and practitioners can report on and discuss issues and solutions to bridge the digital divide of information within a practical geographic-free global software engineering setting.
+
+The workshop encourages the exchange of ideas within the local and international community with its ultimate goal to make software engineering universal; for anyone, anywhere, without any technical, cultural and educational boundaries. This involves a round-table discussion with invited talks from both local and international participants.
+
+### Outputs 
+- Work done in BRIDGES2019 resulted to this paper in a top-10 SE academic journal
+
+ [Raula Gaikovina Kula, Christoph Treude, Hideaki Hata, Sebastian Baltes, Igor Steinmacher, Marco Aurelio Gerosa, Winifred Kula Amini, "Challenges for Inclusion in Software Engineering: The Case of the Emerging Papua New Guinean Society," IEEE Software, 19 Jul. 2021, doi:10.1109/MS.2021.3098116](https://ieeexplore.ieee.org/document/9490315)
+
+- International Talk on "Never Work in Theory" by Sebastian Baltes
+
+   [![Watch the video](https://img.youtube.com/vi/SsHf0-X4vrI/hqdefault.jpg)](https://www.youtube.com/embed/SsHf0-X4vrI)
+
+### Previous BRIDGES
+- [BRIDGES2019](https://naist-se.github.io/BRIDGES2019/)
+
 ## Travel
-To get to Port Moresby, the national airline, Air Niugini, operate weekly direct flights from the capital city to many domestic and international destinations including Singapore, Tokyo, Sydney, Brisbane, Cairns, Manila and Hong Kong. A visa is required to visit PNG, though passport holders from many countries are eligible for a 60-day visa on arrival for free at Port Moresby airport.  
+To get to Port Moresby, the national airline, Air Niugini, operate weekly direct flights from the capital city to many domestic and international destinations including Singapore, Tokyo, Sydney, Brisbane, Cairns, Manila and Hong Kong. A visa is required to visit PNG, though passport holders from many countries are eligible for a 60-day visa.  
 
 ## Supporters
 
