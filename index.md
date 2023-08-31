@@ -1,4 +1,4 @@
-# BRIDGES2023
+# BRIDGES2023, 12th - 14th Sept. 2023 at Loloata, Port Moresby, Papua New Guinea
 
 in collaboration with 
 
@@ -8,13 +8,15 @@ in collaboration with
 
 **Second International Workshop on BRIdging the Divides with Globally Engineered Software (BRIDGES2023)**
 
-### 12th - 14th Sept. 2023
 
-## Theme: Pathways for Tech Employment, Competency, and Global Engagement from a Papua New Guinea Perspective
+## Theme: 
+**Pathways for Tech Employment, Competency, and Global Engagement from a Papua New Guinea Perspective**
 After the pandemic! This year theme of the Workshop is "Pathways for Tech, Big Tech, and Start-up Employment, Competency, and Global Engagement from a Papua New Guinea Perspective"
 In this digital age of Artifical Inteligence (AI) in the cyberspace, emerging societies like Papua New Guinea have an opportunity to overcome the geographic, and social boundaries to engage with the global market.For this workshop, our idea is to bring experts and rising stars to the country to discuss the state of art. 
 
 ### Four International Speakers
+This year we have four interesting talks that cover different aspects of Software Engineering. 
+
 - Coding in the Real World: Teaching Programming Through Open Source Collaboration
 - Towards Privacy Preserving Cross Project Defect Prediction with Federated Learning
 - Diversity and Inclusion: Societal considerations for future AI use​
@@ -30,11 +32,11 @@ In this digital age of Artifical Inteligence (AI) in the cyberspace, emerging so
 - Dong Wang, Kyushu University, Japan
 
 ### Local Participation
-- Papua New Guinea Universities
+- Unitech PNG
 - Papua New Guinea Science and Technology Secretariat
 - Papua New Guinea Digital Cluster
 - National High Schools
-- PNG ICT Specialists
+- PNG ICT Industry
 
 ## Venue
 BRIDGES2023 will take place at [Loloata resort](https://www.loloataislandresort.com/), which is located on an island off the coast of Port Moresby, capital of Pacific nation, Papua New Guinea (PNG). Known as the land of unexpected, locals speak over 850 languages and have a diverse culture, flora and fauna (like the Bird of Paradise and the world's largest butterfly, the Queen Alexandra Birdwing), making PNG one of the last untouched locations on the planet. With independence day looming on September 16th, we expect the area to be buzzing with pacific-style culture and experiences. 
