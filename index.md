@@ -85,7 +85,7 @@ International Talk 2 | Prof Dong Wang
 ------------ | -------------
 3:30 - 4:30 | Talks
 International Talk 1 | Marc Cheong
-International Talk 2 | 
+International Talk 2 | Hideaki Hata
 ------------ | -------------
 .. |  Feedback on the breakouts
 .. |  Panel Discussions (What are the gaps and bridges that need to be built?)
@@ -138,6 +138,12 @@ While some work has been done to make these systems more inclusive and less bias
 I hope that this talk is able to spur conversation on the societal implications of such technology and promote broader discussion of AI diversity and inclusion in PNG. 
 
 Marc Cheong is a Senior Lecturer of Information Systems (Digital Ethics) at the School of Computing and Information Systems and Senior Fellow at the Melbourne Law School, at the University of Melbourne, Australia. He is one of the co-chairs of the IEEE ETHICS flagship conference series and was the 2022 IEEE Society on Social Implications of Technology (SSIT) co-convenor for Victoria, Australia. In terms of AI and automation, he is interested in the ethical considerations in the design, deployment, and usage of such systems. He is active in science communication and is experienced in communicating academic research to a general audience. He frequently comments on topics related to digital ethics in the media --- from social networking platforms to generative AI systems --- in outlets such as the New York Times (NYT, USA), The Age (Australia), and ABC Radio (Australia).  
+
+**Toward Sustainable Management of Common Pool Resources through an EV Sharing Experiment​**
+
+<img align="right" height="200" src="https://hideakihata.github.io/img2020.jpg">
+
+Hideaki Hata is an Associate Professor at the Faculty of Engineering, Shinshu University, Japan. Before joining Shinshu University, he worked as an Assistant Professor at Nara Institute of Science and Technology. He received M.Sc. and Ph.D degrees from the Graduate School of Information Science and Technology, Osaka University.
 
 ## Travel
 To get to Port Moresby, the national airline, Air Niugini, operate weekly direct flights from the capital city to many domestic and international destinations including Singapore, Tokyo, Sydney, Brisbane, Cairns, Manila and Hong Kong. A visa is required to visit PNG, though passport holders from many countries are eligible for a 60-day visa on arrival for free at Port Moresby airport.  
