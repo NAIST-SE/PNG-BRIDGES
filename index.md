@@ -49,9 +49,8 @@ Session | Details
 8:00 - 9:00 | Registration
 -------------- | ---------------
 9:00 - 10:00 | Welcome
-Welcome Address | ICT Digital Cluster -
-Welcome Statement | International Delegate - 
-Theme BRIDGES2023 | Organizing - Prof. Raula Gaikovina Kula
+Welcome Address | PNG Digital ICT Cluster Inc - Ms. Priscilla Kevin (Co Vice President (International))
+Theme and Opening for BRIDGES2023 | Prof. Raula Gaikovina Kula
 ------------ | -------------
 10:00 - 10:30 | Break (Group Photo)
 ------------ | -------------
@@ -60,9 +59,9 @@ Industry Talk | PNG Side
 International Talk 1 | Prof. Christoph Treude
 International Talk 2 | Prof Dong Wang
 ------------ | -------------
-12:30 - 1:30 | LUNCH (e-Poster session by Unitech Internship Students)
+12:30 - 1:30 | LUNCH (e-Poster session by  PNGUoT Intern)
 ------------ | -------------
-1:30 - 3:00 | Break out groups 
+1:30 - 3:00 | Break out into working groups 
 ------------ | -------------
 .. |  Brainstorming on Tech Employment, Competency, and Global Engagement
 .. |  List up themes 
