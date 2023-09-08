@@ -49,7 +49,7 @@ Session | Details
 8:00 - 9:00 | Registration
 -------------- | ---------------
 9:00 - 10:00 | Welcome
-Welcome Address | PNG Digital ICT Cluster Inc - Ms. Priscilla Kevin (Co Vice President (International))
+Welcome Address | Mr. Russell Deka Harada (PNGUoT Head of Department) and Ms. Priscilla Kevin ( Cluster Co Vice President (International))
 Theme and Opening for BRIDGES2023 | Prof. Raula Gaikovina Kula
 ------------ | -------------
 10:00 - 10:30 | Break (Group Photo)
@@ -57,7 +57,7 @@ Theme and Opening for BRIDGES2023 | Prof. Raula Gaikovina Kula
 10:30 - 12:30 | Welcome
 Industry Talk | PNG Side
 International Talk 1 | Prof. Christoph Treude
-International Talk 2 | Prof Dong Wang
+International Talk 2 | Prof. Dong Wang
 ------------ | -------------
 12:30 - 1:30 | LUNCH (e-Poster session by  PNGUoT Intern)
 ------------ | -------------
@@ -69,8 +69,8 @@ International Talk 2 | Prof Dong Wang
 3:00 - 3:30 | Break 
 ------------ | -------------
 3:30 - 4:30 | Talks
-International Talk 3 | Marc Cheong
-International Talk 4 | Hideaki Hata
+International Talk 3 | Prof. Marc Cheong
+International Talk 4 | Prof. Hideaki Hata
 ------------ | -------------
 .. |  Feedback on the breakouts
 .. |  Panel Discussions (What are the gaps and bridges that need to be built?)
