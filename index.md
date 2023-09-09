@@ -124,9 +124,10 @@ I hope that this talk is able to spur conversation on the societal implications 
 
 Marc Cheong is a Senior Lecturer of Information Systems (Digital Ethics) at the School of Computing and Information Systems and Senior Fellow at the Melbourne Law School, at the University of Melbourne, Australia. He is one of the co-chairs of the IEEE ETHICS flagship conference series and was the 2022 IEEE Society on Social Implications of Technology (SSIT) co-convenor for Victoria, Australia. In terms of AI and automation, he is interested in the ethical considerations in the design, deployment, and usage of such systems. He is active in science communication and is experienced in communicating academic research to a general audience. He frequently comments on topics related to digital ethics in the media --- from social networking platforms to generative AI systems --- in outlets such as the New York Times (NYT, USA), The Age (Australia), and ABC Radio (Australia).  
 
-**Toward Sustainable Management of Common Pool Resources through an EV Sharing Experiment​**
+**Unlocking the Commons: Lessons from a University EV Sharing Experiment**
 
 <img align="right" height="200" src="https://hideakihata.github.io/img2020.jpg">
+Effectively managing community commons is an important challenge today, and finding the sweet spot between the tragedy of the commons and the tragedy of the anti-commons is key to making good use of community commons. In this talk, I will share our experience with the sweet spot from an electric vehicle sharing experiment we are running in the university community.
 
 Hideaki Hata is an Associate Professor at the Faculty of Engineering, Shinshu University, Japan. Before joining Shinshu University, he worked as an Assistant Professor at Nara Institute of Science and Technology. He received M.Sc. and Ph.D degrees from the Graduate School of Information Science and Technology, Osaka University.
 
