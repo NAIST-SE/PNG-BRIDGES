@@ -9,6 +9,8 @@ in collaboration with
 
 **Second International Workshop on BRIdging the Divides with Globally Engineered Software (BRIDGES2023)**
 
+<img src="img/BRIDGES23.jpg" alt="hi" class="inline"/>
+
 ## 2023 Theme: 
 **Pathways for Tech Employment, Competency, and Global Engagement from a Papua New Guinea Perspective**
 
