@@ -151,7 +151,7 @@ The workshop encourages the exchange of ideas within the local and international
 ## Travel
 To get to Port Moresby, the national airline, Air Niugini, operate weekly direct flights from the capital city to many domestic and international destinations including Singapore, Tokyo, Sydney, Brisbane, Cairns, Manila and Hong Kong. A visa is required to visit PNG, though passport holders from many countries are eligible for a 60-day visa.  
 
-## Supporters
+**Supporters**
 
 <img src="img/UnitechLogo.jpg" alt="hi" class="inline"/>
 
