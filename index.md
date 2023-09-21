@@ -1,11 +1,9 @@
 # BRIDGES2023
 12th - 14th Sept. 2023 at Loloata, Port Moresby, Papua New Guinea
 
-in collaboration with 
-
+<img src="img/nasfund.png" alt="hi"  width="30%" height="30%" class="inline"/>
 <img src="https://www.naist.jp/en/img/common/logo_en.png" alt="hi" class="inline"/>
-<img src="img/UnitechLogo.jpg" alt="hi" class="inline"/>
-
+<img src="img/UnitechLogo.jpg" alt="hi" width="50%" height="50%" class="inline"/>
 
 **Second International Workshop on BRIdging the Divides with Globally Engineered Software (BRIDGES2023)**
 
